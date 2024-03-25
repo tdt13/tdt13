@@ -45,9 +45,3 @@
 
 <h2 align="center">🔥 My Streak Stats</h2>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tdt13&theme=radical" alt="tdt13" /></p>
-
-
-<h2 align="center">⚡ Recent Activity</h2>
-# Recent Activity :zap:
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
