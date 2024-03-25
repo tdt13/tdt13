@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/thomas-turner-university-of-leeds-crystallisation/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 
@@ -42,6 +42,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdt13&layout=compact&theme=radical" alt="Your Top Languages">
 </p>
+
+<h2 align="center">🔥 My Streak Stats</h2>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tdt13&theme=radical" alt="tdt13" /></p>
 
 
 <h2 align="center">⚡ Recent Activity</h2>
