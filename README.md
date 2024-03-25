@@ -45,5 +45,6 @@
 
 
 <h2 align="center">⚡ Recent Activity</h2>
+# Recent Activity :zap:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
